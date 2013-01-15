@@ -2,4 +2,6 @@ dist
 .project_env.rc
 .path_progress
 *.rbc
-koans/*
+#koans/*
+# Ignore all copies of files
+*~
